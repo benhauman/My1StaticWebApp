@@ -1,0 +1,2 @@
+tutorial:
+https://learn.microsoft.com/en-us/training/modules/publish-app-service-static-web-app-api/2-exercise-get-started?pivots=angular
